@@ -311,7 +311,7 @@ public class MyBatisConfig {
 }
 ```
 
-### Running Samples
+## Running Samples
 
 The project provides two samples so you play and experiment with them:
 
